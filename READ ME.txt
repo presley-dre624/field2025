@@ -1,0 +1,38 @@
+name of the database = field
+sql file is attached in this folder
+
+our system has 4 users
+student - link user/student/
+university - link user/university/
+organization - link user/organization/
+supervisor - link user/supervisor/
+
+sample data
+student
+presley humphrey
+presley@gmail.com
+pass: pres
+
+jackline moshi
+jack@gmail.com
+pass: jack
+
+university
+ifm-main
+ifm@university.com
+pass: ifm main
+
+organization
+nbc ilala
+nbc@org.com
+pass: nbc
+
+position: account
+supervisor
+	name: william bwire
+	email: williambwire97@gmail.com
+	pass: bwire
+
+INFO: internet connection is required using the system because other sources ore stored in the cloud
+	before using the system make sure you are connected to the internet
+
